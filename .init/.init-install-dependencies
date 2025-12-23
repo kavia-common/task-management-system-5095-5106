@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/task-management-system-5095-5106/task_manager_frontend"
+}
